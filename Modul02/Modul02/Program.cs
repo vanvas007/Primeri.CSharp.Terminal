@@ -11,17 +11,48 @@ namespace Modul02
 			int a =0, b=0;
 			int sum = 0;
 //			събиране на числа
-			a=5;
-			b=10;
+			a=10;
+			b=5;
 
 			sum = a + b;
 
 //			писане в конзолата
 			Console.Write (a);
-			Console.Write ("+");
+			Console.Write (" + ");
 			Console.Write (b);
-			Console.Write ("=");
+			Console.Write (" = ");
 			Console.WriteLine (sum);
+			//Допълнителни оператори
+			Console.WriteLine ("\nИзползване на + = ");
+			a += b; //a=10 + 5, a= a + b
+			Console.WriteLine (a);
+
+			Console.WriteLine ("\nИзползване на - = ");
+			a -= b; //a=10 + 5, a= a + b
+			Console.WriteLine (a);
+
+			Console.WriteLine ("\nИзползване на * = ");
+			a *= b; //a=10 + 5, a= a + b
+			Console.WriteLine (a);
+
+
+			Console.WriteLine ("\nИзползване на ++ ");
+			a ++ ; //a=10 + 5, a= a + b
+			Console.WriteLine (a);
+
+			Console.WriteLine ("\nИзползване на -- ");
+			a -- ; //a=10 + 5, a= a + b
+			Console.WriteLine (a);
+
+			Console.WriteLine ("Стандартно делене:" + (14 / 4).ToString());
+			Console.WriteLine ("Остатък от делене:" + (14 % 4).ToString());
+			Console.WriteLine (a);
+
+
+
+
+
+
 		}
 	}
 }
