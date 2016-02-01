@@ -1,0 +1,4 @@
+C:\Aula\primeri.csharp.terminal\Modul03\BullExplorer\bin\Release\BullExplorer.exe
+C:\Aula\primeri.csharp.terminal\Modul03\BullExplorer\bin\Release\BullExplorer.pdb
+C:\Aula\primeri.csharp.terminal\Modul03\BullExplorer\obj\x86\Release\BullExplorer.exe
+C:\Aula\primeri.csharp.terminal\Modul03\BullExplorer\obj\x86\Release\BullExplorer.pdb
