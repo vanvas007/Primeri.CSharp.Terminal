@@ -3,7 +3,7 @@
 namespace TableProject
 {
 	class MainClass
-	{
+	{ //Дефиниране на ENUM
 		enum ti {ime=0, familia, godini};
 		public static void Main (string[] args)
 		{
