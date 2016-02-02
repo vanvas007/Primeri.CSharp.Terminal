@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul03", "Modul03\Modul03.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullExplorer", "BullExplorer\BullExplorer.csproj", "{C267EF85-FFD5-4944-812D-356C289409E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullExplorer_2", "BullExplorer_2\BullExplorer_2.csproj", "{9E0FFC77-8676-4EA0-9658-3D7BB479476C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{8269B091-2DF0-4479-9ABF-22D50967C246}.Debug|x86.Build.0 = Debug|x86
 		{8269B091-2DF0-4479-9ABF-22D50967C246}.Release|x86.ActiveCfg = Release|x86
 		{8269B091-2DF0-4479-9ABF-22D50967C246}.Release|x86.Build.0 = Release|x86
+		{9E0FFC77-8676-4EA0-9658-3D7BB479476C}.Debug|x86.ActiveCfg = Debug|x86
+		{9E0FFC77-8676-4EA0-9658-3D7BB479476C}.Debug|x86.Build.0 = Debug|x86
+		{9E0FFC77-8676-4EA0-9658-3D7BB479476C}.Release|x86.ActiveCfg = Release|x86
+		{9E0FFC77-8676-4EA0-9658-3D7BB479476C}.Release|x86.Build.0 = Release|x86
 		{C267EF85-FFD5-4944-812D-356C289409E3}.Debug|x86.ActiveCfg = Debug|x86
 		{C267EF85-FFD5-4944-812D-356C289409E3}.Debug|x86.Build.0 = Debug|x86
 		{C267EF85-FFD5-4944-812D-356C289409E3}.Release|x86.ActiveCfg = Release|x86
