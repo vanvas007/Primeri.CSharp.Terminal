@@ -21,16 +21,34 @@ namespace Modul04
 			//Проверка за броя на символите в масива
 			//Console.WriteLine (_table.Length);
 			//Тяло на таблица
-			for(int i = 0; i < _table.Length/3; i++)
-			{
-				for (int j=0; j<3; j++)
-				{
-					Console.Write (_table[i,j].PadRight(12));
+			//пример с FOR
 
-				}
-			
-					Console.WriteLine ();	//код на цикъла
+//			for(int i = 0; i < _table.Length/3; i++)
+//			{
+//				for (int j=0; j<3; j++)
+//				{
+//					Console.Write (_table[i,j].PadRight(12));
+//
+//				}
+//			
+//					Console.WriteLine ();	//код на цикъла
+//			}
+
+			//Пример с WHILE
+			int i = 0;
+			while (i < _table.Length/3)
+			{Console.WriteLine (
+				_table[i, 0].PadRight(10)+ 
+				_table[i, 1].PadRight(12) + 
+				_table[i, 2].PadRight(3));
+				Console.WriteLine ("---------------------------");
+				
+				i++;
+
 			}
 		}
+
+
+
 	}
 }
