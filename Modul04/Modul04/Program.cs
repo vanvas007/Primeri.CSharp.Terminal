@@ -32,23 +32,33 @@ namespace Modul04
 //				}
 //			
 //					Console.WriteLine ();	//код на цикъла
-//			}
+//			
 
 			//Пример с WHILE
-			int i = 0;
-			while (i < _table.Length/3)
-			{Console.WriteLine (
+//			int i = 0;
+//			while (i < _table.Length/3)
+//			{Console.WriteLine (
+//				_table[i, 0].PadRight(10)+ 
+//				_table[i, 1].PadRight(12) + 
+//				_table[i, 2].PadRight(3));
+			Console.WriteLine ("---------------------------");
+//				
+			//				i++;}
+			//Пример с DO.......WHILE
+			int i=0;
+			do{
+				//Код
+				Console.WriteLine (
 				_table[i, 0].PadRight(10)+ 
 				_table[i, 1].PadRight(12) + 
 				_table[i, 2].PadRight(3));
-				Console.WriteLine ("---------------------------");
-				
 				i++;
+			} while( i < _table.Length /3);
 
 			}
+
+
 		}
 
-
-
-	}
 }
+
