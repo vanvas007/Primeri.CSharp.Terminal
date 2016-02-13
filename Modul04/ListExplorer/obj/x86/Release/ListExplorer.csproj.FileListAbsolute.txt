@@ -1,0 +1,4 @@
+C:\Aula\primeri.csharp.terminal\Modul04\ListExplorer\bin\Release\ListExplorer.exe
+C:\Aula\primeri.csharp.terminal\Modul04\ListExplorer\bin\Release\ListExplorer.pdb
+C:\Aula\primeri.csharp.terminal\Modul04\ListExplorer\obj\x86\Release\ListExplorer.exe
+C:\Aula\primeri.csharp.terminal\Modul04\ListExplorer\obj\x86\Release\ListExplorer.pdb
