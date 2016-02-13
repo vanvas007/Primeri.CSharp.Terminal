@@ -36,16 +36,21 @@ namespace ListExplorer
 				//Преглед на List
 				if (_userinput.Contains ("show") )
 				{
-					Console.Write ("_list: " );
+					Console.Write ("Списък: " );
 
-					for (int i = 0; i < _list.Count; i++)
-					{			
-
-						
-						Console.Write (_list[i]);
-
-							if (i != _list.Count - 1) Console.Write (", ");
+					foreach(int value in _list)
+					{
+						Console.Write (value.ToString()+ ", ");
 					}
+						
+//					for (int i = 0; i < _list.Count; i++)
+//					{			
+//
+//						
+//						Console.Write (_list[i]);
+//
+//							if (i != _list.Count - 1) Console.Write (", ");
+
 					Console.WriteLine ();
 				}
 				//Размер на List
