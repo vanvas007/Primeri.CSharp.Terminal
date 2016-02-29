@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="ClasExplorer\ClasExplorer.csproj">
+﻿<Properties StartupItem="Fact\Fact.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

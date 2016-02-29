@@ -75,8 +75,7 @@ namespace ClasExplorer
 
 			//Достъпвяне на клас
 				_person.userFName = "Първо име";
-			_person.userName = "ddddd";
-			Console.WriteLine ( _person.userFName + "" + _person.userLName);
+			   Console.WriteLine ( _person.userFName + "" + _person.userLName);
 			//Console.WriteLine (_person.getWelcomeMessage());
 			//_person.simpleString;//достъпва се, защото е public
 			//_person.user; 		//достъпва се, защото е public

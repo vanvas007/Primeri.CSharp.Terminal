@@ -1,0 +1,4 @@
+C:\Aula\primeri.csharp.terminal\Modul05\Fact\bin\Release\Fact.exe
+C:\Aula\primeri.csharp.terminal\Modul05\Fact\bin\Release\Fact.pdb
+C:\Aula\primeri.csharp.terminal\Modul05\Fact\obj\x86\Release\Fact.exe
+C:\Aula\primeri.csharp.terminal\Modul05\Fact\obj\x86\Release\Fact.pdb
